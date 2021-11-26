@@ -8,7 +8,7 @@ Implement builder pattern, use PDO.
 You can install the package via composer:
 
 ```
-composer require vstaran/php-query-builder
+composer require vstaran/query-builder
 ```
 
 ## Basic usage
