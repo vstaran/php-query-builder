@@ -1,5 +1,6 @@
 ## QueryBuilder
 ![License](https://img.shields.io/github/license/aschmelyun/larametrics.svg?style=flat-square)
+
 Implement builder pattern, use PDO.
 
 
