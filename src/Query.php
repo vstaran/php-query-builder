@@ -54,9 +54,9 @@ class Query implements QueryInterface
         return 'SELECT ' . implode(', ', $this->columns)
             . ' FROM ' . $this->table
             . $where
+            . $order
             . $limit
-            . $offset
-            . $order;
+            . $offset;
     }
 
     /**
