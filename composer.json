@@ -1,0 +1,17 @@
+{
+    "name": "vstaran/query-builder",
+    "autoload": {
+        "psr-4": {
+            "Vstaran\\QueryBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor Staranchuk",
+            "email": "vtipok89@gmail.com"
+        }
+    ],
+    "require": {
+        "aigletter/interfaces": "^1.0"
+    }
+}
